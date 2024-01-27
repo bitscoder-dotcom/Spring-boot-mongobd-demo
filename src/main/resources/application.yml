@@ -1,1 +1,10 @@
+spring:
+  data:
+    mongodb:
+      username: bitscoder
+      password: bitscoder
+      host: localhost
+      port: 27017
+      database: bitscodermongo
+      authentication-database: admin
 
