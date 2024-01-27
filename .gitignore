@@ -31,3 +31,7 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### Version Control ###
+/application.yml
+/docker-compose.yml
